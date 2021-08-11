@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sue
 - 🗺️ I'm from Brazil, so I speak Portuguese. But I also speak English.
 - 👀 I’m interested in DevOps and Programming.
-- 🌱 I’m currently learning AWS and Python.
+- 🌱 I’m currently learning Azure DevOps and Python.
 - 📫 How to reach me: You can message me at Linkedin (https://www.linkedin.com/in/suellen-caroline/)
 
 
