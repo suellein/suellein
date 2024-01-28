@@ -1,6 +1,6 @@
-# Hi there!
+### Hi there! 👋
 
-My name is Sue. Welcome to my Github. Make yourself at home. 
+My name is Sue. Welcome to my Github. Make yourself at home. 😊
 
 ## Contact
 
