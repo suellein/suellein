@@ -14,7 +14,7 @@ My name is Sue. Welcome to my Github. Make yourself at home. 😊
 [![](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logoColor=white&logo=docker)](https://github.com/suellein)
 [![](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logoColor=white&logo=jenkins)](https://github.com/suellein)
 [![](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logoColor=white&logo=linux)](https://github.com/suellein)
-[![](https://img.shields.io/badge/-MS SQL-CC2927?style=flat-square&logoColor=white&logo=sql)](https://github.com/suellein)
+[![](https://img.shields.io/badge/-MS SQL-CC2927?style=flat-square&logoColor=white&logo=ms-sql-server)](https://github.com/suellein)
 
 ## More about me
 
