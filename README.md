@@ -29,6 +29,7 @@ My name is Sue. Welcome to my Github. Make yourself at home. 😊
 ## My stats
 
 ![Sue's Stats](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 scaroline5/scaroline5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
