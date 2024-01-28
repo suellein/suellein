@@ -8,7 +8,13 @@ My name is Sue. Welcome to my Github. Make yourself at home. 😊
 
 ## Skills
 
-[![https://img.shields.io/badge/Docker]]
+
+
+## More about me
+
+- 🔭 I’m currently working on **getting specialized in DevOps**
+- 🌱 I’m currently learning **more about Network**
+- ⚡ Fun fact: Even though I'm not British, I like to have a cup of tea with milk from time to time.
 
 
 
