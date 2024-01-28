@@ -8,7 +8,10 @@ My name is Sue. Welcome to my Github. Make yourself at home. 😊
 
 ## Skills
 
-
+[![](https://img.shields.io/badge/-Visual%20Studio%20Code-5C2D91?style=flat-square&logoColor=white&logo=visual-studio)](https://github.com/suellein)
+[![](https://img.shields.io/badge/-Bash-4eaa25?style=flat-square&logoColor=white&logo=gnu-bash)](https://github.com/suellein)
+[![](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logoColor=white&logo=docker)](https://github.com/suellein)
+[![](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logoColor=white&logo=jenkins)](https://github.com/suellein)
 
 ## More about me
 
