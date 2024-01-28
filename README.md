@@ -26,7 +26,9 @@ My name is Sue. Welcome to my Github. Make yourself at home. 😊
 - 🌱 I’m currently learning **more about Network**
 - ⚡ Fun fact: Even though I'm not British, I like to have a cup of tea with milk from time to time.
 
+## My stats
 
+![Sue's Stats](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
 
 <!---
 scaroline5/scaroline5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
