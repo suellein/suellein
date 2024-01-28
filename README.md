@@ -1,6 +1,12 @@
-- 👋 Hi, I’m Sue
-- 🗺️ I'm from Brazil. I speak **Portuguese** and **English**.
-- 📫 How to reach me: You can message me at Linkedin (https://www.linkedin.com/in/suellen-caroline/)
+### Hi there!
+
+My name is Sue. Welcome to my Github. Make yourself at home.
+
+## Contact
+
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white&link=https://twitter.com/magnologan)]([[https://www.linkedin.com/in/magnologan](https://www.linkedin.com/in/suellen-caroline/)](https://www.linkedin.com/in/suellen-caroline/)/)
+
+
 
 
 <!---
