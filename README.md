@@ -28,7 +28,7 @@ My name is Sue. Welcome to my Github. Make yourself at home. 😊
 
 ## My stats
 
-![Sue's Stats](https://github-readme-stats.vercel.app/api?username=suellein&show_icons=true&theme=merko)
+![Sue's Stats](https://github-readme-stats.vercel.app/api?username=suellein&show_icons=true&theme=tokyonight)
 [^2]:
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suellein&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
