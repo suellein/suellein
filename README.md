@@ -22,8 +22,8 @@ My name is Sue. Welcome to my Github. Make yourself at home. 😊
 
 ## More about me
 
-- 🔭 I’m currently working on **getting specialized in DevOps**
-- 🌱 I’m currently learning **more about Network**
+- 🔭 I’m currently **looking for new opportunities**
+- 🌱 I’m currently learning **more about DevOps**
 - ⚡ Fun fact: Even though I'm not British, I like to have a cup of tea with milk from time to time.
 
 ## My stats
