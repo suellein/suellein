@@ -23,7 +23,7 @@ My name is Sue. Welcome to my Github. Make yourself at home. 😊
 ## More about me
 
 - 🔭 I’m currently **looking for new opportunities**
-- 🌱 Learning more about **Networks**
+- 🌱 Learning more about **Networks** and **Linux**
 - ⚡ Fun fact: Even though I'm not British, I like to have a cup of tea with milk from time to time.
 
 ## My stats
